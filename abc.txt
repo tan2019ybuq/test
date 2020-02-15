@@ -1,4 +1,4 @@
 absfsfsfsdfsfsfsfsfsfsfsfsfsfsfsc
 diff2
 fix conflicted
-lhuc write
+lhuc write2
